@@ -1,10 +1,9 @@
 /**
  * Tailwind CSS entry point.
  * This file includes Tailwind’s base, component, and utility styles.
- * Ensure Tailwind is properly configured in tailwind.config.js and postcss.config.js.
  *
  * @author Kalen
- * @version 1.0
+ * @version 1.0.0
  */
 
 @tailwind base;

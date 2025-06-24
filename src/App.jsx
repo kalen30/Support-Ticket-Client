@@ -5,7 +5,6 @@
  * @author Kalen Cha
  * @version 1.0.0
  */
-import TicketForm from './TicketForm'
 import TicketList from './TicketList'
 
 function App() {
