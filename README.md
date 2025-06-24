@@ -3,7 +3,9 @@
 A clean and minimal support ticket web app built with **React**, **Supabase**, **Tailwind CSS**, and **Vite**.  
 Users can submit, edit, filter, and resolve support tickets easily through an intuitive interface.
 
----
+## Live Demo 
+
+View the live app: https://support-ticket-client-fjbu.vercel.app.
 
 ## Features
 
